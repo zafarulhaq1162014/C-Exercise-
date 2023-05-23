@@ -1,2 +1,1 @@
-# cpp
 first cpp code
